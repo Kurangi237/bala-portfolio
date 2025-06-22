@@ -1,4 +1,4 @@
-Bala Venkatarao Kurangi's Professional Portfolio
+Bala Venkatarao Kurangi's Professional Portfolio: https://balavenkataraokurangi.netlify.app/
 
 Project Overview:
 This is a modern, responsive, and visually appealing personal portfolio website for 
