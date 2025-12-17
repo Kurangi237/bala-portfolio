@@ -729,7 +729,7 @@ function App() {
                     <h3 className="font-semibold text-lg text-foreground">B.Tech in Computer Science (AI & ML)</h3>
                     <p className="text-muted-foreground">Kalasalingam Academy of Research and Education, Tamil Nadu</p>
                     <p className="text-sm text-muted-foreground">Sept 2022 – May 2026</p>
-                    <p className="text-accent font-medium">GPA: 7.69</p>
+                    <p className="text-accent font-medium">GPA: 7.71</p>
                   </motion.div>
                   <motion.div 
                     className="border-l-4 border-primary/50 pl-6 relative"
